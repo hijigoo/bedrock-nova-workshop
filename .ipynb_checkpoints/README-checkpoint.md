@@ -1,1 +1,0 @@
-# bedrock-nova-workshop
